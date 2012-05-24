@@ -36,5 +36,4 @@ Make sure to include AFNetworking in your project. If you are not using ARC, ple
 
 ## License
 
-FreeBSD License
-See LICENSE for more information.
+FreeBSD License. See LICENSE for more information.
